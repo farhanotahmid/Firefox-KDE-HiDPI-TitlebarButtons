@@ -1,0 +1,30 @@
+@import 'colors.css';
+
+
+/*reddit config*/
+button.titlebutton.close {
+    margin: 0px;
+    padding: 0px;
+    min-height: 25px;
+    min-width: 25px;
+    color: transparent;
+    background-size: 25px;
+}
+
+button.titlebutton.maximize {
+    margin: 0px;
+    padding: 0px;
+    min-height: 25px;
+    min-width: 25px;
+    color: transparent;
+    background-size: 25px;
+}
+
+button.titlebutton.minimize {
+    margin: 0px;
+    padding: 0px;
+    min-height: 25px;
+    min-width: 25px;
+    color: transparent;
+    background-size: 25px;
+}
